@@ -23,7 +23,8 @@ We're still in alpha 0.1, dont use in production
 # Usage
 
 Register in http://meteorcrm.meteor.com
-Get the apiToken
+
+Get the apiToken in the setting page, http://meteorcrm.meteor.com/setting
 
 Add followings to your settings.json
 

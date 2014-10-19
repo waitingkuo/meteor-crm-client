@@ -9,7 +9,7 @@ Package.onUse(function(api) {
 
 
   api.versionsFrom('METEOR@0.9.0');
-  api.use(['coffeescript', 'iron:router@0.9.4', 'ddp', 'tracker'], 'client');
+  api.use(['coffeescript', 'iron:router@0.9.4', 'ddp@1.0.10', 'tracker@1.0.3'], 'client');
   api.addFiles('meteor-crm.coffee', 'client');
   api.export('Crm', 'client');
 
