@@ -1,7 +1,7 @@
 Package.describe({
     name: 'waitingkuo:meteor-crm-client',
     summary: 'Meteor CRM in the Meteor way',
-    version: '0.0.2',
+    version: '0.0.3',
     git: 'https://github.com/waitingkuo/meteor-crm-client.git'
 });
 
