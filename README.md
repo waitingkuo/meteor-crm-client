@@ -15,13 +15,13 @@ Get the apiToken
 
 Add followings to your settings.json
 
-  {
-    "public": {
-      "meteorCrm": {
-        "apiToken": YOUR_API_TOKEN
-      }   
+    {
+        "public": {
+            "meteorCrm": {
+                "apiToken": YOUR_API_TOKEN
+            }   
+        }
     }
-  }
   
 
 Then run your meteor by
