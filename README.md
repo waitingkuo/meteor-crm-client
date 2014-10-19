@@ -2,7 +2,19 @@
 
 Tracking your users in the Meteor way
 
-P.S. We're still in alpha 0.1, dont use in production
+### Website (Dashboard)
+http://meteorcrm.meteor.com
+
+### Demo Account:
+demo@meteorcrm.io / demo1234
+
+### Demo Site
+http://meteorcrm-telescope.meteor.com
+
+
+### P.S.
+We're still in alpha 0.1, dont use in production
+
 
 # Installation
 
